@@ -1,0 +1,6 @@
+{
+  "appId": "com.goldedgelabs.afyalink",
+  "appName": "AfyaLink",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
